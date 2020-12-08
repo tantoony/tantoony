@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 __**Contact Me:**__
 * [Instagram](https://www.instagram.com/yalin.ozt/?hl=tr)
 * [Discord](https://discord.com/users/674565119161794560)
+* [Youtube](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg)
