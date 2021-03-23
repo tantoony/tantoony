@@ -24,3 +24,6 @@ __**Contact Me:**__
 * [Instagram](https://www.instagram.com/yalin.ozt/?hl=tr)
 * [Discord](https://discord.com/users/674565119161794560)
 * [Youtube](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
