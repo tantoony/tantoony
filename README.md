@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-__**Contact Me:**__
+__**Bana ulaşabileceğiniz yerler:**__
 
 
 <p align = "center">
