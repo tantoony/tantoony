@@ -1,11 +1,11 @@
-# Tantoony the Taurusian
-## Hi there! I'm a simple boy who loves learning and searching stuff
-###### Calm Down! This is Who I am.
+# Tantoony.
+## Merhabalar efendim, benim adım Tantoony, aka. tantuni.
+###### İmzam: Calm Down.
 
+Şuan için sadece Discord isimli platformda bot geliştiriyorum. Kendimi phyton, css ve php üzerinde geliştirmek istiyorum.
+Javascript dilini biliyorum ve Nodejs kullanıyorum.
 
-I am sure that I'm an expert of nodejs at all. Nothing more. I'm working on a Discord music bot. Also, I do other bots as well and I'm going to there them with you guys. Just wait until the April.
-
-I am currently learning phyton and looking for someone to help me about it. Also, if you want to help me about my music bot, contact me on discord app.
+Eğer herhangi bir arzunuz varsa çekinmeden bana yazabilirsiniz :)
 <!--
 **Tantoony/Tantoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 __**Contact Me:**__
-* [Instagram](https://www.instagram.com/yalin.ozt/?hl=tr)
-* [Discord](https://discord.com/users/674565119161794560)
-* [Youtube](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg)
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Tantoony_) 
+[<img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/674565119161794560)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/t.tantoony/)
+[<img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg/featured)
+<img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" /></p>
