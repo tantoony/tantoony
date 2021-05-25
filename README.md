@@ -30,5 +30,7 @@ __**Bana ulaşabileceğiniz yerler:**__
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/t.tantoony/)
 [<img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg/featured)
   </p>
+<p align = "center">
  Profilime kaç kişi tıkladı?
 <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
+</p>
