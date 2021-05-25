@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
-  *Bana ulaşabileceğiniz yerler:
+  Bana ulaşabileceğiniz yerler:
 </p>
 
 <p align = "center">
