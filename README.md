@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Tantoony_) 
-[<img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/479293073549950997)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/t.tantoony/)
-[<img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg/featured)
+<a href="https://twitter.com/Tantoony_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://discord.com/users/479293073549950997" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.instagram.com/_tantoony/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg/featured" target="_blank"><img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"/></a>
  </p>
 <p align = "center">
  Profilime kaç kişi tıkladı?
