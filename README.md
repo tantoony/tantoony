@@ -32,5 +32,7 @@ __**Bana ulaşabileceğiniz yerler:**__
   </p>
 <p align = "center">
  Profilime kaç kişi tıkladı?
+</p>
+<p align = "center">
 <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
 </p>
