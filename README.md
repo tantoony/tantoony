@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <p>Benimle dinle:</p>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=default" /></div>  
 <br/>  
 </div>
 <div align="center">
