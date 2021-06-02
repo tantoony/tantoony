@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!DOCTYPE html>
+<html>
 <div align="center">
 <p>Kullandığım Araçlar:</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
@@ -49,10 +50,13 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <p>Benimle dinle:</p>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=compact" /></div> 
-<br/>  
 </div>
+<div align="center" class="box">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=natemoo-re" />
+<br/>  
+</div>  
 <div align="center">
 <p>Profilime kaç kişi tıkladı?</p>
 <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" /> 
 <br/> 
+</html>
