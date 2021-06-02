@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <p align = "center">
 <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
 </p>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="[Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Tantoony)" />
+<a align="center">
+  <img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=bsa431plyu8hiphpc0ggbsa25&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=natemoo-re)]]" />
 </a>
