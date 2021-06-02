@@ -25,11 +25,9 @@
 <br/><br/><br/>
 </div>
 </div>
+<div style="background-image: './wiew.jpg';">
 <div align="center">
-<p>Benimle dinle:</p>
-</div>
-<div style="background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);">
-<div align="center">
+  <p>Benimle dinle<p>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=natemoo-re" />
 <br/>  
 </div>
