@@ -1,26 +1,3 @@
-<!--
-# Tantoony.
-## Merhabalar efendim, benim adım Tantoony, aka. tantuni.
-###### İmzam: Calm Down.
-
-Şuan için sadece Discord isimli platformda bot geliştiriyorum. Kendimi phyton, css ve php üzerinde geliştirmek istiyorum.
-Javascript dilini biliyorum ve Nodejs kullanıyorum.
-
-Eğer herhangi bir arzunuz varsa çekinmeden bana yazabilirsiniz :)
-
-**Tantoony/Tantoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!DOCTYPE html>
 <html>
 <div align="center">
@@ -50,10 +27,12 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <p>Benimle dinle:</p>
-</div style="background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);">
+</div>
+<div style="background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);">
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=natemoo-re" />
 <br/>  
+</div>
 </div>
 <div align="center">
 <p>Profilime kaç kişi tıkladı?</p>
