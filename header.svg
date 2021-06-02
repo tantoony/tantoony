@@ -76,6 +76,11 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
+			
+			<div class="container" align="center">
+				<h1>Benimle beraber dinle</h1>
+				<img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=natemoo-re" /> 
+			</div>
 		</div>
 	</foreignObject>
 </svg>
