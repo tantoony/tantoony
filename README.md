@@ -28,7 +28,7 @@
 <div>
 <div align="center">
   <p>Benimle dinle<p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=false&theme=natemoo-re" />
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" /></div>  
 <br/>  
 </div>
 </div>
