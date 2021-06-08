@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <!--
 <div align="center">
 <p>Kullandığım Araçlar:</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
@@ -16,6 +17,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />
 <br/><br/><br/>
 </div>
+-->
   <div align="center">
   <p>Benimle iletişime geç:</p>
 <a href="https://twitter.com/Tantoony_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
