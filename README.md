@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  
-  <p>
+  <p align="center">
     <a href="https://instagram.com/_tantoony" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/instagram-ig-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="https://twitter.com/Tantoony_" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/twitter-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="https://www.youtube.com/channel/UC90OJd6d7MrW2ipW0GWy1jg" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/youtube-apps-platform-512.png" width="30px" heigth= "30px" /></a>
