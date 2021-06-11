@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
- 
+ <div>
   <p align="center">
     <a href="https://instagram.com/_tantoony" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/instagram-ig-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="https://twitter.com/Tantoony_" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/twitter-apps-platform-512.png" width="30px" heigth= "30px" /></a>
@@ -13,6 +13,7 @@
 <br/><br/>
     <a href="https://tantoony.net" target="_blank"><img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" /></a>
    </p>
+ </div>
   <!--
 <div align="center">
 <p>Kullandığım Araçlar:</p>
