@@ -1,0 +1,22 @@
+:root {
+    --c-purple: #313552;
+    --c-red: #B8405E;
+    --c-green: #2EB086;
+    --c-white: #EEE6CE;
+    --c-gray: #393E46;
+    --c-blank: #EEEEEE;
+    --c-dark: #222831;
+    --c-blue: #00ADB5;
+    background-color: var(--c-gray);
+    --f-def: 'Bebas Neue', cursive;
+    --f-alt: 'Comfortaa', cursive;
+    --f-head: 'Righteous', cursive;
+    --f-bold: 'Teko', sans-serif;
+    --ct-dark: #00000080;
+    --ct-light: #FFFFFF80
+}
+
+html {
+    font-size: calc(2vw * 2 / 4 + 1vh);
+}
+

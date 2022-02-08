@@ -1,0 +1,36 @@
+/*noinspection CssInvalidPropertyValue*/
+main {
+    height: 50%;
+    background-image: urL('../assets/images/bg-main.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-inline: 10vw;
+    display: flex;
+    justify-items: center;
+    transition: background-position 1s ease;
+}
+
+main:hover {
+    display: flex;
+    background-position: center 120%;
+    transition: background-position 300ms ease;
+}
+
+main cont {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    align-items: center;
+    text-align: center;
+    font-size: 7rem;
+    justify-content: center;
+}
+
+main cont text {
+    display: active !important;
+    background-color: var(--ct-dark);
+    font-family: var(--f-bold);
+    border-style: double;
+    border-color: var(--c-dark);
+    transition: all 1s ease;
+}
