@@ -1,4 +1,6 @@
 # "Merhaba" Everyone! Tantoony Here! 
+
+Görmüş olduğunuz repoları takipçi kasmak için paylaşıyorum eyv.
 |||
 |-|-|
 | Nationality: 		 			| Turkish 			|
