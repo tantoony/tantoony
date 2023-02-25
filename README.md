@@ -6,7 +6,6 @@ Görmüş olduğunuz repoları takipçi kasmak için paylaşıyorum eyv.
 | Languages that I can speak:	| Spanish, English, Turkish 	|
 | I do my best with: 			| ![MongoDB](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-22.png) ![Nginx](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-22.png) ![Javascript](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/js-22.png)  ![ReactJS](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-22.png)  ![Tailwind](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/tailwind-22.png) ![Angular](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/angular-22.png)  ![NextJS](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-2/15/nextjs-22.png)  ![Ubuntu](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/ubuntu-22.png) |
 |Stalk count:					|	![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)
-| Contact:        | [![discord](https://cdn1.iconfinder.com/data/icons/apps-8/64/discord-apps-platform-24.png)](https://discord.com/users/942697809080111145)  |
 
 
 
