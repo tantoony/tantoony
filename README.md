@@ -1,6 +1,5 @@
 # "Merhaba" Everyone! Tantoony Here! 
 
-Görmüş olduğunuz repoları takipçi kasmak için paylaşıyorum eyv.
 |||
 |-|-|
 | Languages that I can speak:	| Spanish, English, Turkish 	|
