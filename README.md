@@ -1,7 +1,5 @@
-<div align="center">
-<p>Profilin tıklanma sayısı:</p>
+
+<!-- <p>Profilin tıklanma sayısı:</p>
  <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
- <p>Sadece gösteriş olsun diye bunu kaldırmadım</p>
- <hr/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" />
-</div>
+ <p>Sadece gösteriş olsun diye bunu kaldırmadım</p> -->
+ ![a_a9c64a457db38edcdd3353a5ea4ee272](https://github.com/Tantoony/Tantoony/assets/64890076/2459dc46-da35-4c04-bc4b-5d9474a7393d)
