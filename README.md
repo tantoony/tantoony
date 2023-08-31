@@ -13,6 +13,6 @@
  <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" />
   </div>
   <div>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" />   
+  <!--img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" / -->   
   </div>
  </div>
