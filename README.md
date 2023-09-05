@@ -11,7 +11,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height=24  title="Instagram: @yalinium"/>
   </a>
   <a href="https://discord.com/users/942697809080111145">
-   <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height=24  title="Discord: @tantoony" />
+   <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width=24  title="Discord: @tantoony" />
   </a>
 <!--  <hr/> -->
   <p/>
