@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Tantoony/Tantoony/assets/64890076/2459dc46-da35-4c04-bc4b-5d9474a7393d"/ >
-   <br/>
+   <!-- <br/> -->
  <!--  <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25">
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height=24 title="Spotify: @cronyc" />
   </a>
