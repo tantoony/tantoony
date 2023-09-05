@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Tantoony/Tantoony/assets/64890076/2459dc46-da35-4c04-bc4b-5d9474a7393d"/ >
    <br/>
-  <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25">
+ <!--  <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25">
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height=24 title="Spotify: @cronyc" />
   </a>
   <a href="https://twitter.com/yalinium">
@@ -12,7 +12,7 @@
   </a>
   <a href="https://discord.com/users/942697809080111145">
    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width=24  title="Discord: @tantoony" />
-  </a>
+  </a> -->
 <!--  <hr/> -->
   <p/>
    <!-- <img src="https://komarev.com/ghpvc/?username=Tantoony" title="Since Sep 1, 2023"/>
