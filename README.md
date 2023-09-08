@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="https://github.com/Tantoony/Tantoony/assets/64890076/2459dc46-da35-4c04-bc4b-5d9474a7393d"/ > -->
-  <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" title="my spotify profile" >
-  <img src="https://svg.yalin.app/spotifyservice"/ >
+  <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" >
+  <img src="https://svg.yalin.app/spotifyservice" title="my spotify profile" />
   </a>
    <!-- <br/> -->
  <!--  <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25">
