@@ -16,7 +16,10 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 - Ubuntu
 - Docker
 ###### my spotify status.
-![Spotify Status](https://img.yalin.app/?)
+<a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" >
+  <img height="300" src="https://img.yalin.app/?" title="my spotify profile" />
+</a>
+
 > if you wonder what these number means, it means I don't listen music atm
 >
 > if you don't see numbers, ignore these two lines.
