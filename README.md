@@ -47,8 +47,3 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 <a href="https://www.docker.com/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/docker.png" title="Docker" />
 </a>
-
-#### 
-<a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" >
-  <img height="300" src="https://img.yalin.app/?" title="my spotify profile" />
-</a>
