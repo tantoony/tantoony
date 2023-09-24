@@ -1,6 +1,8 @@
 # Hi there it's Yalin
 I'm interested in coding since 2020, I started with js while studying in nuclear energy engineering.
-#### Frameworks I use often:
+
+<details open>
+<summary>Frameworks I use often</summary>
 <a href="https://react.dev/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/react.png" title="React" />
 </a>
@@ -16,8 +18,9 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 <a href="https://nestjs.com/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/nestjs.png" title="Nestjs" />
 </a>
-
-##### Programming languages that I can code
+</details>
+<details open>
+<summary>Programming languages that I can code</summary>
 <a href="https://www.typescriptlang.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/ts.png" title="Typescript" />
 </a>
@@ -30,8 +33,9 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 <a href="https://www.python.org/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/python.png" title="python" />
 </a>
-
-##### Tools and softwares I use
+</details>
+<details open>
+<summary> Tools and softwares I use</summary>
 <a href="https://nodejs.org/tr" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/nodejs.png" title="nodejs" />
 </a>
@@ -47,3 +51,13 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 <a href="https://www.docker.com/" target="_blank" >
   <img height="26" src="https://connect.yalin.app/icons/docker.png" title="Docker" />
 </a>
+</details>
+
+<details>
+  <summary>My spotify status</summary>
+<p>
+<a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" >
+  <img height="300" src="https://img.yalin.app/?" title="my spotify profile" />
+</a>
+</p>
+</details>
