@@ -1,5 +1,7 @@
 ![sky](https://github.com/Tantoony/tantoony/assets/64890076/94ed5146-b8ef-4b3d-b76b-3e710e8a6b54)
-I'm interested in coding since 2020, I started with js while studying in nuclear energy engineering.
+I'm interested in coding since 2020.
+
+<hr />
 
 <div>
 <p>Frameworks I use often:</p>
@@ -22,6 +24,8 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 </div>
 </div>
 
+<br />
+
 <div>
 <p>Programming languages that I can code:</p>
 <div>
@@ -39,6 +43,8 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 </a>
 </div>
 </div>
+
+<br/>
 
 <div>
 <p>Tools and softwares I use:</p>
@@ -60,13 +66,19 @@ I'm interested in coding since 2020, I started with js while studying in nuclear
 </a>
 </div>
 </div>
-
+<hr />
 <details>
   <summary>My spotify status</summary>
 <p>
 <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank" >
   <img height="300" src="https://img.yalin.app/?" title="my spotify profile" />
 </a>
+</p>
+</details>
+<details>
+  <summary>Profile visit count</summary>
+<p>
+  <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" title="@tantoony" />
 </p>
 </details>
 
