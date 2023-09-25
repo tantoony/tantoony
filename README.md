@@ -78,8 +78,12 @@ I'm interested in coding since 2020.
 <details>
   <summary>Profile visit count</summary>
 <p>
-  <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" title="@tantoony" />
+<a href="https://github.com/Tantoony" >
+  <img src="https://profile-counter.glitch.me/{Tantoony}/count.svg" title="click to increase" />
+</a>
 </p>
 </details>
 
-![forest](https://github.com/Tantoony/tantoony/assets/64890076/ce6108ad-b431-49f3-81ae-8806fd1d3d96)
+<a href="https://github.com/Tantoony?tab=repositories" >
+  <img src="https://github.com/Tantoony/tantoony/assets/64890076/ce6108ad-b431-49f3-81ae-8806fd1d3d96" title="my repositories" />
+</a>
