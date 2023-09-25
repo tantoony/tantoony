@@ -1,4 +1,3 @@
-## Hi there it's Yalin
 ![sky](https://github.com/Tantoony/tantoony/assets/64890076/94ed5146-b8ef-4b3d-b76b-3e710e8a6b54)
 I'm interested in coding since 2020, I started with js while studying in nuclear energy engineering.
 
