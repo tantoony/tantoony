@@ -1,5 +1,5 @@
 ![sky](https://github.com/Tantoony/tantoony/assets/64890076/94ed5146-b8ef-4b3d-b76b-3e710e8a6b54)
-My name is Yalın Öztürk
+My name is Yalin, still not sure why they call me yellin'
 
 <hr />
 
