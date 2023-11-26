@@ -83,3 +83,4 @@ My name is Yalin, still not sure why they call me yellin'
 </details>
 
 <img src="https://github.com/Tantoony/tantoony/assets/64890076/ce6108ad-b431-49f3-81ae-8806fd1d3d96" />
+<img src="https://svg.yalin.app/tantoony" />
